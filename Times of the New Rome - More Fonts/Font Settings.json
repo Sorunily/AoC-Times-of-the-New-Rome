@@ -5,12 +5,33 @@
     "MapText" : "Vanilla",
     "LargeMapText" : "Vanilla",
     "NormalTextUnderlay" : "Vanilla",
-    "OutlineWidth" : 0.25,
-    "OutlineSoftness" : 0.1,
-    "OutlineColor": {
+    "ForceVanillaValues" : false,
+    "MapTextOutlineWidth" : 0.25,
+    "MapTextOutlineSoftness" : 0.1,
+    "MapTextOutlineColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+        },
+    "MapTextColor": {
         "r": 255,
         "g": 255,
         "b": 255,
         "a": 255
-        }
+    },
+    "LargeMapTextOutlineWidth" : 0.25,
+    "LargeMapTextOutlineSoftness" : 0.1,
+    "LargeMapTextOutlineColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+        },
+    "LargeMapTextColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+    }
 }
