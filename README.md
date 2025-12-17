@@ -44,7 +44,9 @@ Lets you use custom fonts for the game, as well as letting you change outline se
 Edit Font Settings.json however you'd like to change game appearance. If the name of the font in the json doesn't match the name of the FOLDER of the font, then the mod will resort to the vanilla font and ignore you until you learn to spell properly, tsk tsk.
 
 ForceVanillaValues = Use vanilla font settings, BUT keep the custom font changes preceding
+
 MapText = Cities and Small Nations
+
 LargeMapText = Big Nations
 
 To add your own fonts just go to the mod's Fonts folder and create a new folder with a .otf or .ttf file inside. You can find these easily by just searching "[FONT YOU WANT TO DOWNLOAD] download". The folder itself can be named anything you'd like and does not have to match the file inside. If you include multiple files in the folder, the mod will just go with the first one it sees.
