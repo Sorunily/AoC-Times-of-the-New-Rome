@@ -1,0 +1,16 @@
+{
+    "NormalText": "Vanilla",
+    "Title" : "Vanilla",
+    "BoldText" : "Vanilla",
+    "MapText" : "Vanilla",
+    "LargeMapText" : "Vanilla",
+    "NormalTextUnderlay" : "Vanilla",
+    "OutlineWidth" : 0.25,
+    "OutlineSoftness" : 0.1,
+    "OutlineColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+        }
+}
