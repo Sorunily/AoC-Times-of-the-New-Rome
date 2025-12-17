@@ -61,3 +61,10 @@ To add your own fonts just go to the mod's Fonts folder and create a new folder 
 2. Extract **this mod’s zip** into the plugins location so that:
    - BepInEx\plugins\Times of the New Rome - More Fonts exists
 3. Run the game. Check `BepInEx/LogOutput.log` for "Times of the New Rome - More Fonts loaded".
+
+## Screenshots
+<img width="1573" height="855" alt="image" src="https://github.com/user-attachments/assets/3f86a100-2c15-4e78-b425-7511bba01e44" />
+<img width="536" height="511" alt="image" src="https://github.com/user-attachments/assets/82d8ef2d-3e27-47c6-8ed6-556b3e345d29" />
+<img width="1551" height="967" alt="image" src="https://github.com/user-attachments/assets/2c20aacc-0d05-4687-baf8-f526a4e78c07" />
+<img width="677" height="683" alt="image" src="https://github.com/user-attachments/assets/3c9817b9-13d3-4d19-9b88-04b31196884c" />
+
