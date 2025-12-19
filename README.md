@@ -38,7 +38,8 @@ Lets you use custom fonts for the game, as well as letting you change outline se
         "g": 0,
         "b": 0,
         "a": 255
-    }
+    },
+    "DisableZoomChangingAlpha" : false
 }
 ```
 Edit Font Settings.json however you'd like to change game appearance. If the name of the font in the json doesn't match the name of the FOLDER of the font, then the mod will resort to the vanilla font and ignore you until you learn to spell properly, tsk tsk.
